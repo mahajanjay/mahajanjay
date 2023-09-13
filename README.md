@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jayant, a vercitile developer 👨‍💻 able to work on different technologies 🚀</div>  
+### <div align="center">Hello! 👋 I'm an enthusiastic developer 👨‍💻 with a versatile skill set, proficient in various cutting-edge technologies. I've successfully navigated the realms of both MERN and MEAN stacks, showcasing my adaptability. My passion for continuous learning drives me to explore the ever-evolving world of technology 🌍, and I've recently delved into Mobile App Development, gaining expertise in React Native and Kotlin. Staying up-to-date with the latest tech trends 🚀 is not just a habit but a way of life for me. Let's innovate and build amazing things together! 💡🛠️</div>  
   
 
 - 🔭 I’m currently working on Angular  
