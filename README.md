@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpapercave.com/dwp1x/wp8903896.jpg" align="center" style="width: 100%" />
+<img src="[https://wallpapercave.com/dwp1x/wp8903896.jpg](https://github.com/mahajanjay/mahajanjay/blob/main/MEAN.png?raw=true)" align="center" style="width: 100%" />
 </div>  
   
 
