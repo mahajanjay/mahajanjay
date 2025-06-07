@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/mahajanjay/mahajanjay/blob/main/MEAN.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/mahajanjay/mahajanjay/blob/main/Angular_full_stack.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
